@@ -8,3 +8,5 @@ Technologies used:
 languages used:
 - HTML
 - CSS
+
+Link for the figma prototype: https://www.figma.com/file/2Y59OgDgatRmgWylJIQx0d/Untitled?node-id=0%3A1
